@@ -1,0 +1,12 @@
+MATLAB utility for simulating a lunar impact with a satellite.
+
+See Lunar_Impact_Project.pdf for project description.
+
+See report/prelimReport.pdf and report/finalReport.pdf for detailed
+descriptions of my code, logic, and work. The contents of data/ are
+more or less described in there.
+
+Because I reorganized the directory structure, I recompiled the PDFs
+from LaTeX with the proper paths and the dates are wrong. The
+preliminReport was completed on March 15, 2011 and the finalReport was
+completed on March 22, 2011.
